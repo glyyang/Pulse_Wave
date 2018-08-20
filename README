@@ -1,1 +1,4 @@
-Network for testing the IEEE 802.11 model in ad-hoc mode.
+Pulse Wave DDoS simulation
+
+This project is mainly built to simulate Pulse Wave DDoS attack behavior. It is built using OMNeT++ in NED language and can be run under
+Linux environment or Linux VM.
