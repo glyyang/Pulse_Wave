@@ -1,0 +1,1 @@
+-g -Wall -MMD -MP -MF .d    -isystem /usr/include -isystem /mingw64/include -Wno-deprecated-register -Wno-unused-function -fno-stack-protector  -DXMLPARSER=libxml -DPREFER_QTENV -DWITH_QTENV -DWITH_TKENV -DWITH_PARSIM -DWITH_NETBUILDER -DWITH_OSG -DWITH_OSGEARTH  -DINET_IMPORT  -IC:/Users/User/Desktop/ECE_774_mini_reviews/Proj_folder/omnetpp-5.2.1/include
